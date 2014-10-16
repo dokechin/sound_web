@@ -1,0 +1,161 @@
+[Thu Oct 16 20:06:56 2014] [info] Listening at "http://*:3000".
+[Thu Oct 16 20:07:04 2014] [debug] Your secret passphrase needs to be changed!!!
+[Thu Oct 16 20:07:04 2014] [debug] GET "/".
+[Thu Oct 16 20:07:04 2014] [debug] Routing to controller "Sound::Web::Example" and action "welcome".
+[Thu Oct 16 20:07:04 2014] [debug] Rendering template "example/welcome.html.ep".
+[Thu Oct 16 20:07:04 2014] [debug] Rendering template "layouts/default.html.ep".
+[Thu Oct 16 20:07:04 2014] [debug] 200 OK (0.037434s, 26.714/s).
+[Thu Oct 16 20:50:45 2014] [debug] GET "/".
+[Thu Oct 16 20:50:45 2014] [debug] Routing to controller "Sound::Web::Example" and action "welcome".
+[Thu Oct 16 20:50:45 2014] [debug] Rendering cached template "example/welcome.html.ep".
+[Thu Oct 16 20:50:45 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Thu Oct 16 20:50:45 2014] [debug] 200 OK (0.003000s, 333.333/s).
+[Thu Oct 16 20:51:03 2014] [debug] POST "/upload".
+[Thu Oct 16 20:51:03 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Oct 16 20:51:03 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Oct 16 20:51:03 2014] [debug] Rendering inline template "569839bd27413e47e26c8476bacb2540".
+[Thu Oct 16 20:51:03 2014] [debug] Rendering inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Oct 16 20:51:03 2014] [debug] 404 Not Found (0.051948s, 19.250/s).
+[Thu Oct 16 22:31:16 2014] [info] Listening at "http://*:3000".
+[Thu Oct 16 22:31:23 2014] [debug] Your secret passphrase needs to be changed!!!
+[Thu Oct 16 22:31:23 2014] [debug] GET "/".
+[Thu Oct 16 22:31:23 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Oct 16 22:31:23 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Oct 16 22:31:23 2014] [debug] Rendering inline template "569839bd27413e47e26c8476bacb2540".
+[Thu Oct 16 22:31:23 2014] [debug] Rendering inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Oct 16 22:31:23 2014] [debug] 404 Not Found (0.032858s, 30.434/s).
+[Thu Oct 16 22:31:51 2014] [debug] POST "/upload".
+[Thu Oct 16 22:31:51 2014] [debug] Routing to controller "Sound::Web::Root" and action "upload".
+[Thu Oct 16 22:31:51 2014] [debug] Template "root/upload.html.ep" not found.
+[Thu Oct 16 22:31:51 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Oct 16 22:31:51 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Oct 16 22:31:51 2014] [debug] Rendering inline template "569839bd27413e47e26c8476bacb2540".
+[Thu Oct 16 22:31:51 2014] [debug] Rendering inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Oct 16 22:31:51 2014] [debug] 404 Not Found (0.036768s, 27.198/s).
+[Thu Oct 16 22:31:57 2014] [debug] POST "/upload".
+[Thu Oct 16 22:31:57 2014] [debug] Routing to controller "Sound::Web::Root" and action "upload".
+[Thu Oct 16 22:31:57 2014] [debug] Template "root/upload.html.ep" not found.
+[Thu Oct 16 22:31:57 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Oct 16 22:31:57 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Oct 16 22:31:57 2014] [debug] Rendering cached inline template "569839bd27413e47e26c8476bacb2540".
+[Thu Oct 16 22:31:57 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Oct 16 22:31:57 2014] [debug] 404 Not Found (0.010000s, 100.000/s).
+[Thu Oct 16 22:32:01 2014] [debug] POST "/upload".
+[Thu Oct 16 22:32:01 2014] [debug] Routing to controller "Sound::Web::Root" and action "upload".
+[Thu Oct 16 22:32:01 2014] [debug] Template "root/upload.html.ep" not found.
+[Thu Oct 16 22:32:01 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Oct 16 22:32:01 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Oct 16 22:32:01 2014] [debug] Rendering cached inline template "569839bd27413e47e26c8476bacb2540".
+[Thu Oct 16 22:32:01 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Oct 16 22:32:01 2014] [debug] 404 Not Found (0.010970s, 91.158/s).
+[Thu Oct 16 22:43:51 2014] [debug] GET "/".
+[Thu Oct 16 22:43:51 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Oct 16 22:43:51 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Oct 16 22:43:51 2014] [debug] Rendering cached inline template "569839bd27413e47e26c8476bacb2540".
+[Thu Oct 16 22:43:51 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Oct 16 22:43:51 2014] [debug] 404 Not Found (0.011001s, 90.901/s).
+[Thu Oct 16 22:44:09 2014] [debug] POST "/upload".
+[Thu Oct 16 22:44:09 2014] [debug] Routing to controller "Sound::Web::Root" and action "upload".
+[Thu Oct 16 22:44:09 2014] [debug] Template "root/upload.html.ep" not found.
+[Thu Oct 16 22:44:09 2014] [debug] Template "not_found.development.html.ep" not found.
+[Thu Oct 16 22:44:09 2014] [debug] Template "not_found.html.ep" not found.
+[Thu Oct 16 22:44:09 2014] [debug] Rendering cached inline template "569839bd27413e47e26c8476bacb2540".
+[Thu Oct 16 22:44:09 2014] [debug] Rendering cached inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Thu Oct 16 22:44:09 2014] [debug] 404 Not Found (0.019494s, 51.298/s).
+[Thu Oct 16 22:45:34 2014] [debug] Your secret passphrase needs to be changed!!!
+[Thu Oct 16 22:45:34 2014] [debug] POST "/upload".
+[Thu Oct 16 22:45:34 2014] [debug] Routing to controller "Sound::Web::Root" and action "upload".
+[Thu Oct 16 22:45:34 2014] [debug] Rendering template "root/upload.html.ep".
+[Thu Oct 16 22:45:34 2014] [debug] Rendering template "layouts/default.html.ep".
+[Thu Oct 16 22:45:34 2014] [debug] 200 OK (0.035104s, 28.487/s).
+[Thu Oct 16 22:57:31 2014] [info] Listening at "http://*:3000".
+[Thu Oct 16 22:57:41 2014] [debug] Your secret passphrase needs to be changed!!!
+[Thu Oct 16 22:57:41 2014] [debug] POST "/upload".
+[Thu Oct 16 22:57:41 2014] [debug] Routing to controller "Sound::Web::Root" and action "upload".
+[Thu Oct 16 22:57:41 2014] [debug] Rendering template "root/upload.html.ep".
+[Thu Oct 16 22:57:41 2014] [debug] Rendering template "layouts/default.html.ep".
+[Thu Oct 16 22:57:41 2014] [debug] 200 OK (0.034999s, 28.572/s).
+[Thu Oct 16 23:01:54 2014] [debug] Your secret passphrase needs to be changed!!!
+[Thu Oct 16 23:01:54 2014] [debug] POST "/upload".
+[Thu Oct 16 23:01:54 2014] [debug] Routing to controller "Sound::Web::Root" and action "upload".
+[Fri Oct 17 07:22:57 2014] [info] Listening at "http://*:3000".
+[Fri Oct 17 07:23:05 2014] [debug] Your secret passphrase needs to be changed!!!
+[Fri Oct 17 07:23:05 2014] [debug] GET "/".
+[Fri Oct 17 07:23:05 2014] [debug] Template "not_found.development.html.ep" not found.
+[Fri Oct 17 07:23:05 2014] [debug] Template "not_found.html.ep" not found.
+[Fri Oct 17 07:23:05 2014] [debug] Rendering inline template "569839bd27413e47e26c8476bacb2540".
+[Fri Oct 17 07:23:05 2014] [debug] Rendering inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Fri Oct 17 07:23:05 2014] [debug] 404 Not Found (0.031992s, 31.258/s).
+[Fri Oct 17 07:23:31 2014] [debug] POST "/upload".
+[Fri Oct 17 07:23:31 2014] [debug] Routing to controller "Sound::Web::Root" and action "upload".
+[Fri Oct 17 07:23:31 2014] [debug] Rendering template "root/upload.html.ep".
+[Fri Oct 17 07:23:31 2014] [debug] Rendering template "layouts/default.html.ep".
+[Fri Oct 17 07:23:31 2014] [debug] 200 OK (0.033953s, 29.452/s).
+[Fri Oct 17 07:37:40 2014] [info] Listening at "http://*:3000".
+[Fri Oct 17 07:37:53 2014] [debug] Your secret passphrase needs to be changed!!!
+[Fri Oct 17 07:38:07 2014] [debug] POST "/upload".
+[Fri Oct 17 07:38:07 2014] [error] Global symbol "$image" requires explicit package name at /home/user/work/sound_web/script/../lib/Sound/Web/Root.pm line 13.
+Global symbol "$body" requires explicit package name at /home/user/work/sound_web/script/../lib/Sound/Web/Root.pm line 15.
+Compilation failed in require at (eval 270) line 1.
+
+[Fri Oct 17 07:38:07 2014] [debug] Template "exception.development.html.ep" not found.
+[Fri Oct 17 07:38:07 2014] [debug] Template "exception.html.ep" not found.
+[Fri Oct 17 07:38:07 2014] [debug] Rendering inline template "569839bd27413e47e26c8476bacb2540".
+[Fri Oct 17 07:38:07 2014] [debug] Rendering inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Fri Oct 17 07:38:07 2014] [debug] 500 Internal Server Error (0.076665s, 13.044/s).
+[Fri Oct 17 07:39:27 2014] [debug] Your secret passphrase needs to be changed!!!
+[Fri Oct 17 07:39:27 2014] [debug] POST "/upload".
+[Fri Oct 17 07:39:27 2014] [error] Global symbol "$body" requires explicit package name at /home/user/work/sound_web/script/../lib/Sound/Web/Root.pm line 15.
+Compilation failed in require at (eval 270) line 1.
+
+[Fri Oct 17 07:39:27 2014] [debug] Template "exception.development.html.ep" not found.
+[Fri Oct 17 07:39:27 2014] [debug] Template "exception.html.ep" not found.
+[Fri Oct 17 07:39:27 2014] [debug] Rendering inline template "569839bd27413e47e26c8476bacb2540".
+[Fri Oct 17 07:39:27 2014] [debug] Rendering inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Fri Oct 17 07:39:27 2014] [debug] 500 Internal Server Error (0.058563s, 17.076/s).
+[Fri Oct 17 07:39:42 2014] [info] Listening at "http://*:3000".
+[Fri Oct 17 07:40:11 2014] [debug] Your secret passphrase needs to be changed!!!
+[Fri Oct 17 07:40:11 2014] [debug] POST "/upload".
+[Fri Oct 17 07:40:12 2014] [debug] Routing to controller "Sound::Web::Root" and action "upload".
+[Fri Oct 17 07:40:12 2014] [debug] Rendering template "root/upload.html.ep".
+[Fri Oct 17 07:40:12 2014] [debug] Rendering template "layouts/default.html.ep".
+[Fri Oct 17 07:40:12 2014] [debug] 200 OK (0.063105s, 15.847/s).
+[Fri Oct 17 07:42:06 2014] [debug] Your secret passphrase needs to be changed!!!
+[Fri Oct 17 07:42:06 2014] [debug] POST "/upload".
+[Fri Oct 17 07:42:06 2014] [debug] Routing to controller "Sound::Web::Root" and action "upload".
+[Fri Oct 17 07:42:06 2014] [debug] Rendering template "root/upload.html.ep".
+[Fri Oct 17 07:42:06 2014] [debug] Rendering template "layouts/default.html.ep".
+[Fri Oct 17 07:42:06 2014] [debug] 200 OK (0.061773s, 16.188/s).
+[Fri Oct 17 07:44:26 2014] [debug] Your secret passphrase needs to be changed!!!
+[Fri Oct 17 07:44:26 2014] [debug] POST "/upload".
+[Fri Oct 17 07:44:26 2014] [debug] Routing to controller "Sound::Web::Root" and action "upload".
+[Fri Oct 17 07:44:26 2014] [debug] Rendering template "root/upload.html.ep".
+[Fri Oct 17 07:44:26 2014] [debug] Rendering template "layouts/default.html.ep".
+[Fri Oct 17 07:44:26 2014] [debug] 200 OK (0.056624s, 17.660/s).
+[Fri Oct 17 07:44:56 2014] [debug] POST "/upload".
+[Fri Oct 17 07:44:56 2014] [debug] Routing to controller "Sound::Web::Root" and action "upload".
+[Fri Oct 17 07:44:56 2014] [debug] Rendering cached template "root/upload.html.ep".
+[Fri Oct 17 07:44:56 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Fri Oct 17 07:44:56 2014] [debug] 200 OK (0.012001s, 83.326/s).
+[Fri Oct 17 07:46:18 2014] [debug] Your secret passphrase needs to be changed!!!
+[Fri Oct 17 07:46:18 2014] [debug] POST "/upload".
+[Fri Oct 17 07:46:18 2014] [debug] Routing to controller "Sound::Web::Root" and action "upload".
+[Fri Oct 17 07:46:18 2014] [debug] Rendering template "root/upload.html.ep".
+[Fri Oct 17 07:46:18 2014] [debug] Rendering template "layouts/default.html.ep".
+[Fri Oct 17 07:46:18 2014] [debug] 200 OK (0.057669s, 17.340/s).
+[Fri Oct 17 07:55:46 2014] [debug] POST "/post".
+[Fri Oct 17 07:55:46 2014] [debug] Template "not_found.development.html.ep" not found.
+[Fri Oct 17 07:55:46 2014] [debug] Template "not_found.html.ep" not found.
+[Fri Oct 17 07:55:46 2014] [debug] Rendering inline template "569839bd27413e47e26c8476bacb2540".
+[Fri Oct 17 07:55:46 2014] [debug] Rendering inline template "4fcf2af99f1803a7a26c2e9b04430f8c".
+[Fri Oct 17 07:55:46 2014] [debug] 404 Not Found (0.042002s, 23.808/s).
+[Fri Oct 17 07:56:05 2014] [debug] POST "/upload".
+[Fri Oct 17 07:56:05 2014] [debug] Routing to controller "Sound::Web::Root" and action "upload".
+[Fri Oct 17 07:56:05 2014] [debug] Rendering cached template "root/upload.html.ep".
+[Fri Oct 17 07:56:05 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Fri Oct 17 07:56:05 2014] [debug] 200 OK (0.005495s, 181.984/s).
+[Fri Oct 17 07:56:32 2014] [debug] POST "/upload".
+[Fri Oct 17 07:56:32 2014] [debug] Routing to controller "Sound::Web::Root" and action "upload".
+[Fri Oct 17 07:56:32 2014] [debug] Rendering cached template "root/upload.html.ep".
+[Fri Oct 17 07:56:32 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Fri Oct 17 07:56:32 2014] [debug] 200 OK (0.005000s, 200.000/s).
