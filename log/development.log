@@ -159,3 +159,410 @@ Compilation failed in require at (eval 270) line 1.
 [Fri Oct 17 07:56:32 2014] [debug] Rendering cached template "root/upload.html.ep".
 [Fri Oct 17 07:56:32 2014] [debug] Rendering cached template "layouts/default.html.ep".
 [Fri Oct 17 07:56:32 2014] [debug] 200 OK (0.005000s, 200.000/s).
+[Fri Oct 17 00:43:08 2014] [info] Listening at "http://*:3000".
+[Fri Oct 17 00:43:17 2014] [debug] Your secret passphrase needs to be changed!!!
+[Fri Oct 17 00:43:17 2014] [debug] GET "/".
+[Fri Oct 17 00:43:17 2014] [debug] Template "not_found.development.html.ep" not found.
+[Fri Oct 17 00:43:17 2014] [debug] Template "not_found.html.ep" not found.
+[Fri Oct 17 00:43:17 2014] [debug] Rendering inline template "3e3201ab0667c1fc7f39089209f0435c".
+[Fri Oct 17 00:43:17 2014] [debug] Rendering inline template "b2d451b47e2053ce583cbfdf7bcc6006".
+[Fri Oct 17 00:43:17 2014] [debug] 404 Not Found (0.039989s, 25.007/s).
+[Fri Oct 17 00:43:29 2014] [debug] POST "/upload".
+[Fri Oct 17 00:43:29 2014] [debug] Routing to controller "Sound::Web::Root" and action "upload".
+[Fri Oct 17 00:43:29 2014] [debug] Rendering template "root/upload.html.ep".
+[Fri Oct 17 00:43:29 2014] [debug] Rendering template "layouts/default.html.ep".
+[Fri Oct 17 00:43:29 2014] [debug] 200 OK (0.117280s, 8.527/s).
+[Fri Oct 17 00:44:23 2014] [info] Listening at "http://*:3000".
+[Fri Oct 17 00:44:32 2014] [debug] Your secret passphrase needs to be changed!!!
+[Fri Oct 17 00:44:32 2014] [debug] POST "/upload".
+[Fri Oct 17 00:44:32 2014] [debug] Routing to controller "Sound::Web::Root" and action "upload".
+[Fri Oct 17 00:44:32 2014] [debug] Rendering template "root/upload.html.ep".
+[Fri Oct 17 00:44:32 2014] [debug] Rendering template "layouts/default.html.ep".
+[Fri Oct 17 00:44:32 2014] [debug] 200 OK (0.111706s, 8.952/s).
+[Fri Oct 17 01:22:14 2014] [info] Listening at "http://*:3000".
+[Fri Oct 17 01:22:18 2014] [debug] Your secret passphrase needs to be changed!!!
+[Fri Oct 17 01:22:18 2014] [debug] POST "/upload".
+[Fri Oct 17 01:22:18 2014] [debug] Routing to controller "Sound::Web::Root" and action "upload".
+[Fri Oct 17 01:22:18 2014] [debug] Rendering template "root/upload.html.ep".
+[Fri Oct 17 01:22:18 2014] [debug] Rendering template "layouts/default.html.ep".
+[Fri Oct 17 01:22:18 2014] [debug] 200 OK (0.161812s, 6.180/s).
+[Fri Oct 17 01:22:56 2014] [info] Listening at "http://*:3000".
+[Fri Oct 17 01:23:04 2014] [debug] Your secret passphrase needs to be changed!!!
+[Fri Oct 17 01:23:04 2014] [debug] POST "/upload".
+[Fri Oct 17 01:23:04 2014] [debug] Routing to controller "Sound::Web::Root" and action "upload".
+[Fri Oct 17 01:23:04 2014] [debug] Rendering template "root/upload.html.ep".
+[Fri Oct 17 01:23:04 2014] [debug] Rendering template "layouts/default.html.ep".
+[Fri Oct 17 01:23:04 2014] [debug] 200 OK (0.117901s, 8.482/s).
+[Fri Oct 17 01:26:16 2014] [info] Listening at "http://*:3000".
+[Fri Oct 17 01:26:29 2014] [debug] Your secret passphrase needs to be changed!!!
+[Fri Oct 17 01:26:33 2014] [debug] POST "/upload".
+[Fri Oct 17 01:26:33 2014] [debug] Routing to controller "Sound::Web::Root" and action "upload".
+[Fri Oct 17 01:26:33 2014] [debug] Rendering template "root/upload.html.ep".
+[Fri Oct 17 01:26:33 2014] [debug] Rendering template "layouts/default.html.ep".
+[Fri Oct 17 01:26:33 2014] [debug] 200 OK (0.043113s, 23.195/s).
+[Fri Oct 17 01:30:40 2014] [info] Listening at "http://*:3000".
+[Fri Oct 17 01:30:45 2014] [debug] Your secret passphrase needs to be changed!!!
+[Fri Oct 17 01:30:45 2014] [debug] POST "/upload".
+[Fri Oct 17 01:30:45 2014] [debug] Routing to controller "Sound::Web::Root" and action "upload".
+[Fri Oct 17 01:30:45 2014] [debug] Rendering template "root/upload.html.ep".
+[Fri Oct 17 01:30:45 2014] [debug] Rendering template "layouts/default.html.ep".
+[Fri Oct 17 01:30:45 2014] [debug] 200 OK (0.081538s, 12.264/s).
+[Fri Oct 17 01:32:10 2014] [info] Listening at "http://*:3000".
+[Fri Oct 17 01:32:25 2014] [debug] Your secret passphrase needs to be changed!!!
+[Fri Oct 17 01:32:25 2014] [debug] POST "/upload".
+[Fri Oct 17 01:32:25 2014] [debug] Routing to controller "Sound::Web::Root" and action "upload".
+[Fri Oct 17 01:32:28 2014] [debug] Rendering template "root/upload.html.ep".
+[Fri Oct 17 01:32:28 2014] [debug] Rendering template "layouts/default.html.ep".
+[Fri Oct 17 01:32:28 2014] [debug] 200 OK (3.076308s, 0.325/s).
+[Fri Oct 17 01:33:12 2014] [debug] Your secret passphrase needs to be changed!!!
+[Fri Oct 17 01:33:12 2014] [debug] POST "/upload".
+[Fri Oct 17 01:33:12 2014] [debug] Routing to controller "Sound::Web::Root" and action "upload".
+[Fri Oct 17 01:33:22 2014] [debug] Rendering template "root/upload.html.ep".
+[Fri Oct 17 01:33:22 2014] [debug] Rendering template "layouts/default.html.ep".
+[Fri Oct 17 01:33:22 2014] [debug] 200 OK (10.068007s, 0.099/s).
+[Fri Oct 17 02:41:07 2014] [info] Listening at "http://*:3000".
+[Fri Oct 17 02:43:07 2014] [debug] Your secret passphrase needs to be changed!!!
+[Fri Oct 17 02:43:07 2014] [debug] GET "/example.css".
+[Fri Oct 17 02:43:07 2014] [debug] Template "not_found.development.html.ep" not found.
+[Fri Oct 17 02:43:07 2014] [debug] Template "not_found.html.ep" not found.
+[Fri Oct 17 02:43:07 2014] [debug] Rendering inline template "3e3201ab0667c1fc7f39089209f0435c".
+[Fri Oct 17 02:43:07 2014] [debug] Rendering inline template "b2d451b47e2053ce583cbfdf7bcc6006".
+[Fri Oct 17 02:43:07 2014] [debug] 404 Not Found (0.062112s, 16.100/s).
+[Fri Oct 17 03:23:03 2014] [error] Can't open file "/home/d410302/sound_web/public/example-2.html": Device or resource busy at /usr/lib/perl5/site_perl/5.14/Mojolicious/Static.pm line 98.
+
+[Fri Oct 17 03:23:03 2014] [debug] Template "exception.development.html.ep" not found.
+[Fri Oct 17 03:23:03 2014] [debug] Template "exception.html.ep" not found.
+[Fri Oct 17 03:23:03 2014] [debug] Rendering cached inline template "3e3201ab0667c1fc7f39089209f0435c".
+[Fri Oct 17 03:23:03 2014] [debug] Rendering cached inline template "b2d451b47e2053ce583cbfdf7bcc6006".
+[Fri Oct 17 03:23:17 2014] [error] Can't open file "/home/d410302/sound_web/public/example-2.html": Device or resource busy at /usr/lib/perl5/site_perl/5.14/Mojolicious/Static.pm line 98.
+
+[Fri Oct 17 03:23:17 2014] [debug] Template "exception.development.html.ep" not found.
+[Fri Oct 17 03:23:17 2014] [debug] Template "exception.html.ep" not found.
+[Fri Oct 17 03:23:17 2014] [debug] Rendering cached inline template "3e3201ab0667c1fc7f39089209f0435c".
+[Fri Oct 17 03:23:17 2014] [debug] Rendering cached inline template "b2d451b47e2053ce583cbfdf7bcc6006".
+[Fri Oct 17 03:23:28 2014] [error] Can't open file "/home/d410302/sound_web/public/example-2.html": Device or resource busy at /usr/lib/perl5/site_perl/5.14/Mojolicious/Static.pm line 98.
+
+[Fri Oct 17 03:23:28 2014] [debug] Template "exception.development.html.ep" not found.
+[Fri Oct 17 03:23:28 2014] [debug] Template "exception.html.ep" not found.
+[Fri Oct 17 03:23:28 2014] [debug] Rendering cached inline template "3e3201ab0667c1fc7f39089209f0435c".
+[Fri Oct 17 03:23:28 2014] [debug] Rendering cached inline template "b2d451b47e2053ce583cbfdf7bcc6006".
+[Fri Oct 17 03:23:29 2014] [error] Can't open file "/home/d410302/sound_web/public/example-2.html": Device or resource busy at /usr/lib/perl5/site_perl/5.14/Mojolicious/Static.pm line 98.
+
+[Fri Oct 17 03:23:29 2014] [debug] Template "exception.development.html.ep" not found.
+[Fri Oct 17 03:23:29 2014] [debug] Template "exception.html.ep" not found.
+[Fri Oct 17 03:23:29 2014] [debug] Rendering cached inline template "3e3201ab0667c1fc7f39089209f0435c".
+[Fri Oct 17 03:23:29 2014] [debug] Rendering cached inline template "b2d451b47e2053ce583cbfdf7bcc6006".
+[Fri Oct 17 03:23:30 2014] [error] Can't open file "/home/d410302/sound_web/public/example-2.html": Device or resource busy at /usr/lib/perl5/site_perl/5.14/Mojolicious/Static.pm line 98.
+
+[Fri Oct 17 03:23:30 2014] [debug] Template "exception.development.html.ep" not found.
+[Fri Oct 17 03:23:30 2014] [debug] Template "exception.html.ep" not found.
+[Fri Oct 17 03:23:30 2014] [debug] Rendering cached inline template "3e3201ab0667c1fc7f39089209f0435c".
+[Fri Oct 17 03:23:30 2014] [debug] Rendering cached inline template "b2d451b47e2053ce583cbfdf7bcc6006".
+[Fri Oct 17 03:23:39 2014] [debug] GET "/example.css".
+[Fri Oct 17 03:23:39 2014] [debug] Template "not_found.development.html.ep" not found.
+[Fri Oct 17 03:23:39 2014] [debug] Template "not_found.html.ep" not found.
+[Fri Oct 17 03:23:39 2014] [debug] Rendering cached inline template "3e3201ab0667c1fc7f39089209f0435c".
+[Fri Oct 17 03:23:39 2014] [debug] Rendering cached inline template "b2d451b47e2053ce583cbfdf7bcc6006".
+[Fri Oct 17 03:23:39 2014] [debug] 404 Not Found (0.020000s, 50.000/s).
+[Fri Oct 17 03:23:53 2014] [debug] GET "/example.css".
+[Fri Oct 17 03:23:53 2014] [debug] Template "not_found.development.html.ep" not found.
+[Fri Oct 17 03:23:53 2014] [debug] Template "not_found.html.ep" not found.
+[Fri Oct 17 03:23:53 2014] [debug] Rendering cached inline template "3e3201ab0667c1fc7f39089209f0435c".
+[Fri Oct 17 03:23:53 2014] [debug] Rendering cached inline template "b2d451b47e2053ce583cbfdf7bcc6006".
+[Fri Oct 17 03:23:53 2014] [debug] 404 Not Found (0.021118s, 47.353/s).
+[Fri Oct 17 03:24:44 2014] [error] Can't open file "/home/d410302/sound_web/public/example-2.html": Device or resource busy at /usr/lib/perl5/site_perl/5.14/Mojolicious/Static.pm line 98.
+
+[Fri Oct 17 03:24:44 2014] [debug] Template "exception.development.html.ep" not found.
+[Fri Oct 17 03:24:44 2014] [debug] Template "exception.html.ep" not found.
+[Fri Oct 17 03:24:44 2014] [debug] Rendering cached inline template "3e3201ab0667c1fc7f39089209f0435c".
+[Fri Oct 17 03:24:44 2014] [debug] Rendering cached inline template "b2d451b47e2053ce583cbfdf7bcc6006".
+[Fri Oct 17 03:24:50 2014] [debug] GET "/example.css".
+[Fri Oct 17 03:24:50 2014] [debug] Template "not_found.development.html.ep" not found.
+[Fri Oct 17 03:24:50 2014] [debug] Template "not_found.html.ep" not found.
+[Fri Oct 17 03:24:50 2014] [debug] Rendering cached inline template "3e3201ab0667c1fc7f39089209f0435c".
+[Fri Oct 17 03:24:50 2014] [debug] Rendering cached inline template "b2d451b47e2053ce583cbfdf7bcc6006".
+[Fri Oct 17 03:24:50 2014] [debug] 404 Not Found (0.017002s, 58.817/s).
+[Fri Oct 17 03:25:13 2014] [error] Can't open file "/home/d410302/sound_web/public/example-2.html": Device or resource busy at /usr/lib/perl5/site_perl/5.14/Mojolicious/Static.pm line 98.
+
+[Fri Oct 17 03:25:13 2014] [debug] Template "exception.development.html.ep" not found.
+[Fri Oct 17 03:25:13 2014] [debug] Template "exception.html.ep" not found.
+[Fri Oct 17 03:25:13 2014] [debug] Rendering cached inline template "3e3201ab0667c1fc7f39089209f0435c".
+[Fri Oct 17 03:25:13 2014] [debug] Rendering cached inline template "b2d451b47e2053ce583cbfdf7bcc6006".
+[Fri Oct 17 03:25:19 2014] [debug] GET "/example.css".
+[Fri Oct 17 03:25:19 2014] [debug] Template "not_found.development.html.ep" not found.
+[Fri Oct 17 03:25:19 2014] [debug] Template "not_found.html.ep" not found.
+[Fri Oct 17 03:25:19 2014] [debug] Rendering cached inline template "3e3201ab0667c1fc7f39089209f0435c".
+[Fri Oct 17 03:25:19 2014] [debug] Rendering cached inline template "b2d451b47e2053ce583cbfdf7bcc6006".
+[Fri Oct 17 03:25:19 2014] [debug] 404 Not Found (0.020821s, 48.028/s).
+[Fri Oct 17 03:26:21 2014] [debug] GET "/example.css".
+[Fri Oct 17 03:26:21 2014] [debug] Template "not_found.development.html.ep" not found.
+[Fri Oct 17 03:26:21 2014] [debug] Template "not_found.html.ep" not found.
+[Fri Oct 17 03:26:21 2014] [debug] Rendering cached inline template "3e3201ab0667c1fc7f39089209f0435c".
+[Fri Oct 17 03:26:21 2014] [debug] Rendering cached inline template "b2d451b47e2053ce583cbfdf7bcc6006".
+[Fri Oct 17 03:26:21 2014] [debug] 404 Not Found (0.036003s, 27.775/s).
+[Fri Oct 17 03:28:00 2014] [debug] GET "/example.css".
+[Fri Oct 17 03:28:00 2014] [debug] Template "not_found.development.html.ep" not found.
+[Fri Oct 17 03:28:00 2014] [debug] Template "not_found.html.ep" not found.
+[Fri Oct 17 03:28:00 2014] [debug] Rendering cached inline template "3e3201ab0667c1fc7f39089209f0435c".
+[Fri Oct 17 03:28:00 2014] [debug] Rendering cached inline template "b2d451b47e2053ce583cbfdf7bcc6006".
+[Fri Oct 17 03:28:00 2014] [debug] 404 Not Found (0.020002s, 49.995/s).
+[Fri Oct 17 03:30:53 2014] [debug] GET "/example.css".
+[Fri Oct 17 03:30:53 2014] [debug] Template "not_found.development.html.ep" not found.
+[Fri Oct 17 03:30:53 2014] [debug] Template "not_found.html.ep" not found.
+[Fri Oct 17 03:30:53 2014] [debug] Rendering cached inline template "3e3201ab0667c1fc7f39089209f0435c".
+[Fri Oct 17 03:30:53 2014] [debug] Rendering cached inline template "b2d451b47e2053ce583cbfdf7bcc6006".
+[Fri Oct 17 03:30:53 2014] [debug] 404 Not Found (0.012002s, 83.319/s).
+[Fri Oct 17 03:31:04 2014] [debug] POST "/upload".
+[Fri Oct 17 03:31:04 2014] [debug] Routing to controller "Sound::Web::Root" and action "upload".
+[Fri Oct 17 03:31:04 2014] [error] Can't call method "move_to" on an undefined value at /home/d410302/sound_web/script/../lib/Sound/Web/Root.pm line 14.
+
+[Fri Oct 17 03:31:04 2014] [debug] Template "exception.development.html.ep" not found.
+[Fri Oct 17 03:31:04 2014] [debug] Template "exception.html.ep" not found.
+[Fri Oct 17 03:31:04 2014] [debug] Rendering inline template "3e3201ab0667c1fc7f39089209f0435c".
+[Fri Oct 17 03:31:04 2014] [debug] Rendering inline template "b2d451b47e2053ce583cbfdf7bcc6006".
+[Fri Oct 17 03:31:04 2014] [debug] 500 Internal Server Error (0.159939s, 6.252/s).
+[Fri Oct 17 03:31:24 2014] [debug] POST "/upload".
+[Fri Oct 17 03:31:24 2014] [debug] Routing to controller "Sound::Web::Root" and action "upload".
+[Fri Oct 17 03:31:24 2014] [error] Can't call method "move_to" on an undefined value at /home/d410302/sound_web/script/../lib/Sound/Web/Root.pm line 14.
+
+[Fri Oct 17 03:31:24 2014] [debug] Template "exception.development.html.ep" not found.
+[Fri Oct 17 03:31:24 2014] [debug] Template "exception.html.ep" not found.
+[Fri Oct 17 03:31:24 2014] [debug] Rendering cached inline template "3e3201ab0667c1fc7f39089209f0435c".
+[Fri Oct 17 03:31:24 2014] [debug] Rendering cached inline template "b2d451b47e2053ce583cbfdf7bcc6006".
+[Fri Oct 17 03:31:24 2014] [debug] 500 Internal Server Error (0.027003s, 37.033/s).
+[Fri Oct 17 03:31:31 2014] [debug] POST "/upload".
+[Fri Oct 17 03:31:31 2014] [debug] Routing to controller "Sound::Web::Root" and action "upload".
+[Fri Oct 17 03:31:31 2014] [error] Can't call method "move_to" on an undefined value at /home/d410302/sound_web/script/../lib/Sound/Web/Root.pm line 14.
+
+[Fri Oct 17 03:31:31 2014] [debug] Template "exception.development.html.ep" not found.
+[Fri Oct 17 03:31:31 2014] [debug] Template "exception.html.ep" not found.
+[Fri Oct 17 03:31:31 2014] [debug] Rendering cached inline template "3e3201ab0667c1fc7f39089209f0435c".
+[Fri Oct 17 03:31:31 2014] [debug] Rendering cached inline template "b2d451b47e2053ce583cbfdf7bcc6006".
+[Fri Oct 17 03:31:31 2014] [debug] 500 Internal Server Error (0.026632s, 37.549/s).
+[Fri Oct 17 03:31:58 2014] [debug] POST "/upload".
+[Fri Oct 17 03:31:58 2014] [debug] Routing to controller "Sound::Web::Root" and action "upload".
+[Fri Oct 17 03:31:58 2014] [error] Can't call method "move_to" on an undefined value at /home/d410302/sound_web/script/../lib/Sound/Web/Root.pm line 14.
+
+[Fri Oct 17 03:31:58 2014] [debug] Template "exception.development.html.ep" not found.
+[Fri Oct 17 03:31:58 2014] [debug] Template "exception.html.ep" not found.
+[Fri Oct 17 03:31:58 2014] [debug] Rendering cached inline template "3e3201ab0667c1fc7f39089209f0435c".
+[Fri Oct 17 03:31:58 2014] [debug] Rendering cached inline template "b2d451b47e2053ce583cbfdf7bcc6006".
+[Fri Oct 17 03:31:58 2014] [debug] 500 Internal Server Error (0.033003s, 30.300/s).
+[Fri Oct 17 03:33:24 2014] [error] Can't open file "/home/d410302/sound_web/public/example-2.html": Device or resource busy at /usr/lib/perl5/site_perl/5.14/Mojolicious/Static.pm line 98.
+
+[Fri Oct 17 03:33:24 2014] [debug] Template "exception.development.html.ep" not found.
+[Fri Oct 17 03:33:24 2014] [debug] Template "exception.html.ep" not found.
+[Fri Oct 17 03:33:24 2014] [debug] Rendering cached inline template "3e3201ab0667c1fc7f39089209f0435c".
+[Fri Oct 17 03:33:24 2014] [debug] Rendering cached inline template "b2d451b47e2053ce583cbfdf7bcc6006".
+[Fri Oct 17 03:33:31 2014] [debug] GET "/example.css".
+[Fri Oct 17 03:33:31 2014] [debug] Template "not_found.development.html.ep" not found.
+[Fri Oct 17 03:33:31 2014] [debug] Template "not_found.html.ep" not found.
+[Fri Oct 17 03:33:31 2014] [debug] Rendering cached inline template "3e3201ab0667c1fc7f39089209f0435c".
+[Fri Oct 17 03:33:31 2014] [debug] Rendering cached inline template "b2d451b47e2053ce583cbfdf7bcc6006".
+[Fri Oct 17 03:33:31 2014] [debug] 404 Not Found (0.014002s, 71.418/s).
+[Fri Oct 17 03:33:31 2014] [error] Software caused connection abort
+[Fri Oct 17 03:33:47 2014] [debug] POST "/upload".
+[Fri Oct 17 03:33:47 2014] [debug] Routing to controller "Sound::Web::Root" and action "upload".
+[Fri Oct 17 03:33:47 2014] [error] Can't call method "move_to" on an undefined value at /home/d410302/sound_web/script/../lib/Sound/Web/Root.pm line 14.
+
+[Fri Oct 17 03:33:47 2014] [debug] Template "exception.development.html.ep" not found.
+[Fri Oct 17 03:33:47 2014] [debug] Template "exception.html.ep" not found.
+[Fri Oct 17 03:33:47 2014] [debug] Rendering cached inline template "3e3201ab0667c1fc7f39089209f0435c".
+[Fri Oct 17 03:33:47 2014] [debug] Rendering cached inline template "b2d451b47e2053ce583cbfdf7bcc6006".
+[Fri Oct 17 03:33:47 2014] [debug] 500 Internal Server Error (0.030774s, 32.495/s).
+[Fri Oct 17 03:35:42 2014] [error] Can't open file "/home/d410302/sound_web/public/example-2.html": Device or resource busy at /usr/lib/perl5/site_perl/5.14/Mojolicious/Static.pm line 98.
+
+[Fri Oct 17 03:35:42 2014] [debug] Template "exception.development.html.ep" not found.
+[Fri Oct 17 03:35:42 2014] [debug] Template "exception.html.ep" not found.
+[Fri Oct 17 03:35:42 2014] [debug] Rendering cached inline template "3e3201ab0667c1fc7f39089209f0435c".
+[Fri Oct 17 03:35:42 2014] [debug] Rendering cached inline template "b2d451b47e2053ce583cbfdf7bcc6006".
+[Fri Oct 17 03:35:48 2014] [debug] GET "/example.css".
+[Fri Oct 17 03:35:48 2014] [debug] Template "not_found.development.html.ep" not found.
+[Fri Oct 17 03:35:48 2014] [debug] Template "not_found.html.ep" not found.
+[Fri Oct 17 03:35:48 2014] [debug] Rendering cached inline template "3e3201ab0667c1fc7f39089209f0435c".
+[Fri Oct 17 03:35:48 2014] [debug] Rendering cached inline template "b2d451b47e2053ce583cbfdf7bcc6006".
+[Fri Oct 17 03:35:48 2014] [debug] 404 Not Found (0.014001s, 71.423/s).
+[Fri Oct 17 03:36:01 2014] [debug] POST "/upload".
+[Fri Oct 17 03:36:01 2014] [debug] Routing to controller "Sound::Web::Root" and action "upload".
+[Fri Oct 17 03:36:01 2014] [error] Can't locate object method "new" via package "Audio::Analyzer::ToneDetect" (perhaps you forgot to load "Audio::Analyzer::ToneDetect"?) at /home/d410302/sound_web/script/../lib/Sound/Web/Root.pm line 16.
+
+[Fri Oct 17 03:36:01 2014] [debug] Template "exception.development.html.ep" not found.
+[Fri Oct 17 03:36:01 2014] [debug] Template "exception.html.ep" not found.
+[Fri Oct 17 03:36:01 2014] [debug] Rendering cached inline template "3e3201ab0667c1fc7f39089209f0435c".
+[Fri Oct 17 03:36:01 2014] [debug] Rendering cached inline template "b2d451b47e2053ce583cbfdf7bcc6006".
+[Fri Oct 17 03:36:01 2014] [debug] 500 Internal Server Error (0.037366s, 26.762/s).
+[Fri Oct 17 03:36:36 2014] [error] Can't open file "/home/d410302/sound_web/public/example-2.html": Device or resource busy at /usr/lib/perl5/site_perl/5.14/Mojolicious/Static.pm line 98.
+
+[Fri Oct 17 03:36:36 2014] [debug] Template "exception.development.html.ep" not found.
+[Fri Oct 17 03:36:36 2014] [debug] Template "exception.html.ep" not found.
+[Fri Oct 17 03:36:36 2014] [debug] Rendering cached inline template "3e3201ab0667c1fc7f39089209f0435c".
+[Fri Oct 17 03:36:36 2014] [debug] Rendering cached inline template "b2d451b47e2053ce583cbfdf7bcc6006".
+[Fri Oct 17 03:36:41 2014] [debug] GET "/example.css".
+[Fri Oct 17 03:36:41 2014] [debug] Template "not_found.development.html.ep" not found.
+[Fri Oct 17 03:36:41 2014] [debug] Template "not_found.html.ep" not found.
+[Fri Oct 17 03:36:41 2014] [debug] Rendering cached inline template "3e3201ab0667c1fc7f39089209f0435c".
+[Fri Oct 17 03:36:41 2014] [debug] Rendering cached inline template "b2d451b47e2053ce583cbfdf7bcc6006".
+[Fri Oct 17 03:36:41 2014] [debug] 404 Not Found (0.014001s, 71.423/s).
+[Fri Oct 17 03:36:51 2014] [debug] POST "/upload".
+[Fri Oct 17 03:36:51 2014] [debug] Routing to controller "Sound::Web::Root" and action "upload".
+[Fri Oct 17 03:36:51 2014] [error] Can't locate object method "new" via package "Audio::Analyzer::ToneDetect" (perhaps you forgot to load "Audio::Analyzer::ToneDetect"?) at /home/d410302/sound_web/script/../lib/Sound/Web/Root.pm line 16.
+
+[Fri Oct 17 03:36:51 2014] [debug] Template "exception.development.html.ep" not found.
+[Fri Oct 17 03:36:51 2014] [debug] Template "exception.html.ep" not found.
+[Fri Oct 17 03:36:51 2014] [debug] Rendering cached inline template "3e3201ab0667c1fc7f39089209f0435c".
+[Fri Oct 17 03:36:51 2014] [debug] Rendering cached inline template "b2d451b47e2053ce583cbfdf7bcc6006".
+[Fri Oct 17 03:36:51 2014] [debug] 500 Internal Server Error (0.042588s, 23.481/s).
+[Fri Oct 17 03:36:52 2014] [debug] POST "/upload".
+[Fri Oct 17 03:36:52 2014] [debug] Routing to controller "Sound::Web::Root" and action "upload".
+[Fri Oct 17 03:36:52 2014] [error] Can't locate object method "new" via package "Audio::Analyzer::ToneDetect" (perhaps you forgot to load "Audio::Analyzer::ToneDetect"?) at /home/d410302/sound_web/script/../lib/Sound/Web/Root.pm line 16.
+
+[Fri Oct 17 03:36:52 2014] [debug] Template "exception.development.html.ep" not found.
+[Fri Oct 17 03:36:52 2014] [debug] Template "exception.html.ep" not found.
+[Fri Oct 17 03:36:52 2014] [debug] Rendering cached inline template "3e3201ab0667c1fc7f39089209f0435c".
+[Fri Oct 17 03:36:52 2014] [debug] Rendering cached inline template "b2d451b47e2053ce583cbfdf7bcc6006".
+[Fri Oct 17 03:36:52 2014] [debug] 500 Internal Server Error (0.058524s, 17.087/s).
+[Fri Oct 17 03:36:58 2014] [debug] POST "/upload".
+[Fri Oct 17 03:36:58 2014] [debug] Routing to controller "Sound::Web::Root" and action "upload".
+[Fri Oct 17 03:36:58 2014] [error] Can't locate object method "new" via package "Audio::Analyzer::ToneDetect" (perhaps you forgot to load "Audio::Analyzer::ToneDetect"?) at /home/d410302/sound_web/script/../lib/Sound/Web/Root.pm line 16.
+
+[Fri Oct 17 03:36:58 2014] [debug] Template "exception.development.html.ep" not found.
+[Fri Oct 17 03:36:58 2014] [debug] Template "exception.html.ep" not found.
+[Fri Oct 17 03:36:58 2014] [debug] Rendering cached inline template "3e3201ab0667c1fc7f39089209f0435c".
+[Fri Oct 17 03:36:58 2014] [debug] Rendering cached inline template "b2d451b47e2053ce583cbfdf7bcc6006".
+[Fri Oct 17 03:36:58 2014] [debug] 500 Internal Server Error (0.041826s, 23.909/s).
+[Fri Oct 17 03:38:40 2014] [debug] Your secret passphrase needs to be changed!!!
+[Fri Oct 17 03:38:40 2014] [debug] POST "/upload".
+[Fri Oct 17 03:38:40 2014] [debug] Routing to controller "Sound::Web::Root" and action "upload".
+[Fri Oct 17 03:38:40 2014] [debug] Rendering template "root/upload.html.ep".
+[Fri Oct 17 03:38:40 2014] [debug] Rendering template "layouts/default.html.ep".
+[Fri Oct 17 03:38:40 2014] [debug] 200 OK (0.528053s, 1.894/s).
+[Fri Oct 17 03:38:46 2014] [debug] POST "/upload".
+[Fri Oct 17 03:38:46 2014] [debug] Routing to controller "Sound::Web::Root" and action "upload".
+[Fri Oct 17 03:38:46 2014] [debug] Rendering cached template "root/upload.html.ep".
+[Fri Oct 17 03:38:46 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Fri Oct 17 03:38:46 2014] [debug] 200 OK (0.448185s, 2.231/s).
+[Fri Oct 17 03:40:16 2014] [debug] Your secret passphrase needs to be changed!!!
+[Fri Oct 17 03:40:16 2014] [debug] POST "/upload".
+[Fri Oct 17 03:40:17 2014] [debug] Routing to controller "Sound::Web::Root" and action "upload".
+[Fri Oct 17 03:40:36 2014] [debug] Rendering template "root/upload.html.ep".
+[Fri Oct 17 03:40:36 2014] [debug] Rendering template "layouts/default.html.ep".
+[Fri Oct 17 03:40:36 2014] [debug] 200 OK (19.389939s, 0.052/s).
+[Fri Oct 17 03:40:48 2014] [debug] POST "/upload".
+[Fri Oct 17 03:40:48 2014] [debug] Routing to controller "Sound::Web::Root" and action "upload".
+[Fri Oct 17 03:40:48 2014] [error] Can't call method "fft" on an undefined value at /usr/lib/perl5/site_perl/5.14/Audio/Analyzer/ToneDetect.pm line 76.
+
+[Fri Oct 17 03:40:48 2014] [debug] Template "exception.development.html.ep" not found.
+[Fri Oct 17 03:40:48 2014] [debug] Template "exception.html.ep" not found.
+[Fri Oct 17 03:40:48 2014] [debug] Rendering inline template "3e3201ab0667c1fc7f39089209f0435c".
+[Fri Oct 17 03:40:48 2014] [debug] Rendering inline template "b2d451b47e2053ce583cbfdf7bcc6006".
+[Fri Oct 17 03:40:48 2014] [debug] 500 Internal Server Error (0.091009s, 10.988/s).
+[Fri Oct 17 03:41:01 2014] [debug] POST "/upload".
+[Fri Oct 17 03:41:01 2014] [debug] Routing to controller "Sound::Web::Root" and action "upload".
+[Fri Oct 17 03:41:01 2014] [error] Can't call method "fft" on an undefined value at /usr/lib/perl5/site_perl/5.14/Audio/Analyzer/ToneDetect.pm line 76.
+
+[Fri Oct 17 03:41:01 2014] [debug] Template "exception.development.html.ep" not found.
+[Fri Oct 17 03:41:01 2014] [debug] Template "exception.html.ep" not found.
+[Fri Oct 17 03:41:01 2014] [debug] Rendering cached inline template "3e3201ab0667c1fc7f39089209f0435c".
+[Fri Oct 17 03:41:01 2014] [debug] Rendering cached inline template "b2d451b47e2053ce583cbfdf7bcc6006".
+[Fri Oct 17 03:41:01 2014] [debug] 500 Internal Server Error (0.067188s, 14.884/s).
+[Fri Oct 17 03:41:19 2014] [debug] POST "/upload".
+[Fri Oct 17 03:41:19 2014] [debug] Routing to controller "Sound::Web::Root" and action "upload".
+[Fri Oct 17 03:41:38 2014] [debug] Rendering cached template "root/upload.html.ep".
+[Fri Oct 17 03:41:38 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Fri Oct 17 03:41:38 2014] [debug] 200 OK (19.320932s, 0.052/s).
+[Fri Oct 17 03:57:43 2014] [info] Listening at "http://*:3000".
+[Fri Oct 17 03:57:45 2014] [debug] Your secret passphrase needs to be changed!!!
+[Fri Oct 17 03:57:45 2014] [debug] GET "/example.css".
+[Fri Oct 17 03:57:45 2014] [debug] Template "not_found.development.html.ep" not found.
+[Fri Oct 17 03:57:45 2014] [debug] Template "not_found.html.ep" not found.
+[Fri Oct 17 03:57:45 2014] [debug] Rendering inline template "3e3201ab0667c1fc7f39089209f0435c".
+[Fri Oct 17 03:57:45 2014] [debug] Rendering inline template "b2d451b47e2053ce583cbfdf7bcc6006".
+[Fri Oct 17 03:57:45 2014] [debug] 404 Not Found (0.060942s, 16.409/s).
+[Fri Oct 17 03:57:56 2014] [debug] POST "/upload".
+[Fri Oct 17 03:57:56 2014] [debug] Routing to controller "Sound::Web::Root" and action "upload".
+[Fri Oct 17 03:58:15 2014] [debug] Rendering template "root/upload.html.ep".
+[Fri Oct 17 03:58:15 2014] [debug] Rendering template "layouts/default.html.ep".
+[Fri Oct 17 03:58:15 2014] [debug] 200 OK (19.362936s, 0.052/s).
+[Fri Oct 17 03:58:15 2014] [debug] POST "/upload".
+[Fri Oct 17 03:58:15 2014] [debug] Routing to controller "Sound::Web::Root" and action "upload".
+[Fri Oct 17 03:58:35 2014] [debug] Rendering cached template "root/upload.html.ep".
+[Fri Oct 17 03:58:35 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Fri Oct 17 03:58:35 2014] [debug] 200 OK (19.341753s, 0.052/s).
+[Fri Oct 17 03:58:35 2014] [debug] POST "/upload".
+[Fri Oct 17 03:58:35 2014] [debug] Routing to controller "Sound::Web::Root" and action "upload".
+[Fri Oct 17 03:58:54 2014] [debug] Rendering cached template "root/upload.html.ep".
+[Fri Oct 17 03:58:54 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Fri Oct 17 03:58:54 2014] [debug] 200 OK (19.323932s, 0.052/s).
+[Fri Oct 17 04:09:05 2014] [info] Listening at "http://*:3000".
+[Fri Oct 17 04:09:59 2014] [debug] Your secret passphrase needs to be changed!!!
+[Fri Oct 17 04:09:59 2014] [debug] GET "/".
+[Fri Oct 17 04:09:59 2014] [debug] Template "not_found.development.html.ep" not found.
+[Fri Oct 17 04:09:59 2014] [debug] Template "not_found.html.ep" not found.
+[Fri Oct 17 04:09:59 2014] [debug] Rendering inline template "3e3201ab0667c1fc7f39089209f0435c".
+[Fri Oct 17 04:09:59 2014] [debug] Rendering inline template "b2d451b47e2053ce583cbfdf7bcc6006".
+[Fri Oct 17 04:09:59 2014] [debug] 404 Not Found (0.037695s, 26.529/s).
+[Fri Oct 17 04:10:24 2014] [debug] Your secret passphrase needs to be changed!!!
+[Fri Oct 17 04:10:24 2014] [debug] GET "/".
+[Fri Oct 17 04:10:24 2014] [debug] Routing to controller "Sound::Web::Root" and action "index".
+[Fri Oct 17 04:10:24 2014] [debug] Rendering template "root/index.html.ep".
+[Fri Oct 17 04:10:24 2014] [debug] 200 OK (0.113750s, 8.791/s).
+[Fri Oct 17 04:10:24 2014] [debug] GET "/example.css".
+[Fri Oct 17 04:10:24 2014] [debug] Template "not_found.development.html.ep" not found.
+[Fri Oct 17 04:10:24 2014] [debug] Template "not_found.html.ep" not found.
+[Fri Oct 17 04:10:24 2014] [debug] Rendering inline template "3e3201ab0667c1fc7f39089209f0435c".
+[Fri Oct 17 04:10:24 2014] [debug] Rendering inline template "b2d451b47e2053ce583cbfdf7bcc6006".
+[Fri Oct 17 04:10:24 2014] [debug] 404 Not Found (0.043326s, 23.081/s).
+[Fri Oct 17 04:10:54 2014] [debug] POST "/upload".
+[Fri Oct 17 04:10:54 2014] [debug] Routing to controller "Sound::Web::Root" and action "upload".
+[Fri Oct 17 04:10:54 2014] [error] Can't call method "fft" on an undefined value at /usr/lib/perl5/site_perl/5.14/Audio/Analyzer/ToneDetect.pm line 76.
+
+[Fri Oct 17 04:10:54 2014] [debug] Template "exception.development.html.ep" not found.
+[Fri Oct 17 04:10:54 2014] [debug] Template "exception.html.ep" not found.
+[Fri Oct 17 04:10:54 2014] [debug] Rendering inline template "3e3201ab0667c1fc7f39089209f0435c".
+[Fri Oct 17 04:10:54 2014] [debug] Rendering inline template "b2d451b47e2053ce583cbfdf7bcc6006".
+[Fri Oct 17 04:10:54 2014] [debug] 500 Internal Server Error (0.297030s, 3.367/s).
+[Fri Oct 17 04:11:07 2014] [debug] POST "/upload".
+[Fri Oct 17 04:11:07 2014] [debug] Routing to controller "Sound::Web::Root" and action "upload".
+[Fri Oct 17 04:11:08 2014] [error] Can't call method "fft" on an undefined value at /usr/lib/perl5/site_perl/5.14/Audio/Analyzer/ToneDetect.pm line 76.
+
+[Fri Oct 17 04:11:08 2014] [debug] Template "exception.development.html.ep" not found.
+[Fri Oct 17 04:11:08 2014] [debug] Template "exception.html.ep" not found.
+[Fri Oct 17 04:11:08 2014] [debug] Rendering cached inline template "3e3201ab0667c1fc7f39089209f0435c".
+[Fri Oct 17 04:11:08 2014] [debug] Rendering cached inline template "b2d451b47e2053ce583cbfdf7bcc6006".
+[Fri Oct 17 04:11:08 2014] [debug] 500 Internal Server Error (0.262759s, 3.806/s).
+[Fri Oct 17 04:11:26 2014] [debug] POST "/upload".
+[Fri Oct 17 04:11:26 2014] [debug] Routing to controller "Sound::Web::Root" and action "upload".
+[Fri Oct 17 04:11:26 2014] [error] Can't call method "fft" on an undefined value at /usr/lib/perl5/site_perl/5.14/Audio/Analyzer/ToneDetect.pm line 76.
+
+[Fri Oct 17 04:11:26 2014] [debug] Template "exception.development.html.ep" not found.
+[Fri Oct 17 04:11:26 2014] [debug] Template "exception.html.ep" not found.
+[Fri Oct 17 04:11:26 2014] [debug] Rendering cached inline template "3e3201ab0667c1fc7f39089209f0435c".
+[Fri Oct 17 04:11:26 2014] [debug] Rendering cached inline template "b2d451b47e2053ce583cbfdf7bcc6006".
+[Fri Oct 17 04:11:26 2014] [debug] 500 Internal Server Error (0.268027s, 3.731/s).
+[Fri Oct 17 04:23:27 2014] [info] Listening at "http://*:3000".
+[Fri Oct 17 04:23:37 2014] [debug] Your secret passphrase needs to be changed!!!
+[Fri Oct 17 04:23:37 2014] [debug] GET "/".
+[Fri Oct 17 04:23:37 2014] [debug] Routing to controller "Sound::Web::Root" and action "index".
+[Fri Oct 17 04:23:37 2014] [debug] Rendering template "root/index.html.ep".
+[Fri Oct 17 04:23:37 2014] [debug] 200 OK (0.376673s, 2.655/s).
+[Fri Oct 17 04:23:37 2014] [debug] GET "/example.css".
+[Fri Oct 17 04:23:37 2014] [debug] Template "not_found.development.html.ep" not found.
+[Fri Oct 17 04:23:37 2014] [debug] Template "not_found.html.ep" not found.
+[Fri Oct 17 04:23:37 2014] [debug] Rendering inline template "3e3201ab0667c1fc7f39089209f0435c".
+[Fri Oct 17 04:23:37 2014] [debug] Rendering inline template "b2d451b47e2053ce583cbfdf7bcc6006".
+[Fri Oct 17 04:23:37 2014] [debug] 404 Not Found (0.105869s, 9.446/s).
+[Fri Oct 17 04:26:27 2014] [debug] Your secret passphrase needs to be changed!!!
+[Fri Oct 17 04:26:27 2014] [debug] POST "/upload".
+[Fri Oct 17 04:26:27 2014] [debug] Routing to controller "Sound::Web::Root" and action "upload".
+[Fri Oct 17 04:26:27 2014] [error] Can't call method "fft" on an undefined value at /usr/lib/perl5/site_perl/5.14/Audio/Analyzer/ToneDetect.pm line 76.
+
+[Fri Oct 17 04:26:27 2014] [debug] Template "exception.development.html.ep" not found.
+[Fri Oct 17 04:26:27 2014] [debug] Template "exception.html.ep" not found.
+[Fri Oct 17 04:26:27 2014] [debug] Rendering inline template "3e3201ab0667c1fc7f39089209f0435c".
+[Fri Oct 17 04:26:27 2014] [debug] Rendering inline template "b2d451b47e2053ce583cbfdf7bcc6006".
+[Fri Oct 17 04:26:27 2014] [debug] 500 Internal Server Error (0.326766s, 3.060/s).
+[Fri Oct 17 04:27:09 2014] [debug] POST "/upload".
+[Fri Oct 17 04:27:10 2014] [debug] Routing to controller "Sound::Web::Root" and action "upload".
+[Fri Oct 17 04:27:10 2014] [debug] Rendering template "root/upload.html.ep".
+[Fri Oct 17 04:27:10 2014] [debug] Rendering template "layouts/default.html.ep".
+[Fri Oct 17 04:27:10 2014] [debug] 200 OK (0.329934s, 3.031/s).

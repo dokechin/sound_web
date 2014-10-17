@@ -13,6 +13,7 @@ sub startup {
 
   # Normal route to controller
   $r->post('/upload')->to('root#upload');
+  $r->get('/')->to('root#index');
 }
 
 1;
